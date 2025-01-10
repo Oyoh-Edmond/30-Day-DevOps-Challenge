@@ -3,7 +3,7 @@ name: Weather Dashboard Deployment
 on:
     push:
         branches: main
-    workflow_dispatch:
+ 
 
 jobs:
     deploy:
